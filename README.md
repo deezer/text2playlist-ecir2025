@@ -22,12 +22,11 @@ In this paper, we present Text2Playlist, illustrated in the Figure below, a pers
 
 ## Paper
 
-The paper is publicly available [on arXiv]().
+The paper is publicly available [on arXiv](https://arxiv.org/pdf/2501.05894).
 
 ## Slides
 
-Slides from the oral presentation are publicly available [here](https://github.com/deezer/text2playlist-ecir2025/blob/main/slides/delcluze_ecir2025.pdf).
-
+_Soon._
 
 ## Video
 
